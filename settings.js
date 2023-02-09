@@ -2,20 +2,20 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "SIMO DARK" 
+global.botname = "SIMO" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "SIMO"  
 global.packname = "MR.VAYULENCE"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× SIMO ✘ DARK™ ✓" // Your own watermark 
-global.headerText = "SIMO DARK" // text for header of menu         
+global.waterMark = "×͜× SIMO ✘ ™ ✓" // Your own watermark 
+global.headerText = "SIMO" // text for header of menu         
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
 global.ownername = "SIMO"   // Owner name //        
 global.ownernumber = ['254726479220'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
-global.ytname = "YT: Producer simon"   // Yt chanel name //
+global.ytname = "YT:  simon"   // Yt chanel name //
 global.continent = "africa" // your continent name 
 global.region = "kenya" // your country name
 global.state = "Assam" // your state name
