@@ -13,7 +13,7 @@ global.DocumentTitle = "MASTER⚔️PIKA"
 
 
 global.ownername = "SIMO"   // Owner name //        
-global.ownernumber = ['254722577833'] 
+global.ownernumber = ['254726479220'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT:  simon"   // Yt chanel name //
 global.continent = "africa" // your continent name 
